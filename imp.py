@@ -1,3 +1,4 @@
+
 import cv2
 
 srcImg = cv2.imread("italy.jpg")
